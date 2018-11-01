@@ -1,2 +1,2 @@
 # FoP
-Foundations of Programming
+Fundamental of Programming
