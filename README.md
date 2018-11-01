@@ -1,2 +1,0 @@
-# FoP
-Fundamental of Programming
